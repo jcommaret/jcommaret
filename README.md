@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jcommaret
-- 👀 I’m interested in front-end development 
-- 🌱 I’m currently learning react, meteor... 
-- 💞️ I’m looking to collaborate on nice projects
+- 👀 I am interested in front-end development 
+- 🧑🏻‍💻 I am coding in React / Wordpress  
+- 💞️ I am looking for a new job, crafting nice projets. 
 - 📫 How to reach me : add a rendez-vous on my calendly : https://calendly.com/jcommaret
 
 <!---
